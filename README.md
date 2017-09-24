@@ -1,1 +1,6 @@
-# analys-nedladdare
+# Analys nedladdare
+
+Detta är en Firefox WebExtension som laddar ner videoanalyser från en viss sajt som används mycket o
+golfvärlden.
+
+
